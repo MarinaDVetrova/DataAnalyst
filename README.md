@@ -6,7 +6,7 @@
 
 Все просто :smile_cat:
 
-_Шаг 1: Установка_
+#### Шаг 1: Установка
 
 Вызываю командную строку (cmd). Пишу :point_down:
 
@@ -14,12 +14,15 @@ _Шаг 1: Установка_
 pip install jupyter
 ```
 
+![pip install jupyter](/DataAnalyst/blob/main/pip_jupyter.gif)
 
-
-_Шаг 2: Открываю блокнот_
+#### Шаг 2: Открываю блокнот
 
 Чтобы вызвать Jupyter тоже использую командную строку (cmd). Пишу :point_down: и он открывается в браузере.
 
 ```
 jupyter notebook
 ```
+
+
+![jupyter notebook](/DataAnalyst/blob/main/abrir_jupyter.gif)
