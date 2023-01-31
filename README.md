@@ -14,7 +14,7 @@
 pip install jupyter
 ```
 
-![pip install jupyter](/DataAnalyst/blob/main/pip_jupyter.gif)
+![pip install jupyter](/blob/main/pip_jupyter.gif)
 
 #### Шаг 2: Открываю блокнот
 
@@ -25,4 +25,4 @@ jupyter notebook
 ```
 
 
-![jupyter notebook](/DataAnalyst/blob/main/abrir_jupyter.gif)
+![jupyter notebook](/blob/main/abrir_jupyter.gif)
