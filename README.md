@@ -14,7 +14,7 @@
 pip install jupyter
 ```
 
-![pip install jupyter](/pip_jupyter.gif)
+![pip install jupyter](/img/pip_jupyter.gif)
 
 #### Шаг 2: Открываю блокнот
 
@@ -24,4 +24,4 @@ pip install jupyter
 jupyter notebook
 ```
 
-![jupyter notebook](/abrir_jupyter.gif)
+![jupyter notebook](/img/abrir_jupyter.gif)
