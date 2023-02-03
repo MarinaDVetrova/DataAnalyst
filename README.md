@@ -25,3 +25,9 @@ jupyter notebook
 ```
 
 ![jupyter notebook](/img/abrir_jupyter.gif)
+
+## Проект 1 - Музыка больших городов
+
+## Проект 2
+
+## Проект 3
